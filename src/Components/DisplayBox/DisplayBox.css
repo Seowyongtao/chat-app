@@ -1,0 +1,18 @@
+.displaybox{
+    height:80%;
+  }
+
+  .text{
+    border: 1px solid black;
+    width: 50%;
+    word-break: break-word;
+    /* height: auto; */
+  }
+
+  .username{
+    font-size: 20px;
+  }
+
+  .time{
+    font-size: 20px;
+  }
